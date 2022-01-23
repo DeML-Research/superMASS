@@ -1,2 +1,17 @@
+
+# ----------- Exclude the following ---------- #
+
+# ignore vscode project folder
+.vscode/
+
+# ignore virtual env for development
+supermass_dev_venv/
+
+# ignore vscode workspace file
+supermass_dev_workspace.code-workspace
+
+# Rust related 
 /target
 Cargo.lock
+
+# ------------- ---------------- ------------- #

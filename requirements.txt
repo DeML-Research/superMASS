@@ -1,0 +1,31 @@
+ 
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- Project: superMASS                                                                                  -- #
+# -- Description: A supercomputing efficient implementation of the MASS algorithm                        -- #
+# --------------------------------------------------------------------------------------------------------- #
+# -- File: requirements.txt - A text file with python libraries required for the project                 -- #
+# -- Authors: IFFranciscoME - CAGS295                                                                    -- #
+# -- License: GPL-3.0 License                                                                            -- #
+# -- Repository: https://github.com/superMASS/superMASS                                                  -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+# Run the following in bash console:
+# $ pip instal -r requirements.txt
+
+# -- Base
+numpy==1.19.2
+pandas==1.1.3
+
+# -- Documentation
+rich
+numpydoc
+
+# -- Utils
+python-dateutil==2.8.1
+pytz==2020.1
+six==1.15.0
+pytest>=3.5.0
+setuptools-rust>=0.10.2
+
+# -- Benchmark
+mass-ts==0.1.4

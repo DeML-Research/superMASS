@@ -1,7 +1,5 @@
 
-.. image:: https://readthedocs.org/
-        :target: https://readthedocs.io
-        :alt: Documentation Status
+|
 
 .. image:: https://img.shields.io/github/license/supermass/supermass
         :target: https://github.com/supermass/supermass/blob/master/LICENSE
@@ -14,6 +12,8 @@
 .. image:: https://badges.pufler.dev/visits/supermass/supermass
         :target: https://github.com/supermass/supermass/graphs/traffic
         :alt: Visits
+
+|
 
 **superMASS** is a super-computing efficient binding for the superMASS rust project in cargo.io
 

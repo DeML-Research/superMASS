@@ -52,7 +52,17 @@ Usage
 Contribution
 ------------
 
+Guide lines
+-----------
+
 - (pending)
+
+Current Contributors
+--------------------
+
+.. image:: https://contrib.rocks/image?repo=supermass/supermass
+        :target: https://github.com/supermass/supermass/graphs/contributors
+        :alt: Contributors
 
 ----------
 References

@@ -31,18 +31,18 @@ Installation
 ------------
 
 1. Package from pypi.org:
-
-1.1. pip package manager
+    
+    1. pip package manager
         
         pip install supermass
 
 2. Repository from Github:
 
-2.1. Clone from github
+    1. Clone from github
 
         git@github.com:supermass/supermass.git
 
-2.2 Install dependencies
+    2. Install dependencies
 
         pip install -r requirements.txt
 

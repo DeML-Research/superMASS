@@ -30,15 +30,19 @@ Documentation
 Installation
 ------------
 
-- Install by using pip package manager:
+1. Package from pypi.org:
+
+1.1. pip package manager
         
         pip install supermass
 
-- Clone entire github project
+2. Repository from Github:
+
+2.1. Clone from github
 
         git@github.com:supermass/supermass.git
 
-and then install dependencies
+2.2 Install dependencies
 
         pip install -r requirements.txt
 

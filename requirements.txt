@@ -13,7 +13,7 @@
 # $ pip instal -r requirements.txt
 
 # -- Base
-numpy==1.19.2
+numpy==1.22.0
 pandas==1.1.3
 
 # -- Documentation
